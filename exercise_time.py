@@ -11,6 +11,6 @@ def time():
     horas_completas = total_segundos // 3600
     minutos_completos_restantes = (total_segundos % 3600) // 60
     segundos_restantes = total_segundos % 60
-    print("Horas: ", horas_completas)
-    print("Minutos: ", minutos_completos_restantes)
-    print("Segundos: ", segundos_restantes)
+    print(horas_completas)
+    print(minutos_completos_restantes)
+    print(segundos_restantes)

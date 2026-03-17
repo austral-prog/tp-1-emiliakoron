@@ -21,10 +21,10 @@ def math():
     resto_division_entera = a % b
     valor_real_division = a / b
 
-    print("La suma es: ", suma)
-    print("La diferencia es: ", diferencia)
-    print("El producto es: ", producto)
-    print("El promedio es: ", promedio)
-    print("El cociente es: ", cociente)
-    print ("El resto de la division entera es: ", resto_division_entera)
-    print("El valor real de la division es: ", valor_real_division)
+    print(suma)
+    print(diferencia)
+    print(producto)
+    print(promedio)
+    print(cociente)
+    print (resto_division_entera)
+    print(valor_real_division)

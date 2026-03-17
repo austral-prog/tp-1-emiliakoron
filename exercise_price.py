@@ -14,7 +14,7 @@ def price():
     monto_propina = monto_subtotal / 10
     precio_final = monto_subtotal + monto_propina
 
-    print("El monto del impuesto es: ",monto_impuesto)
-    print("El monto del subtotal es: ",monto_subtotal)
-    print("El monto de la propina es: ",monto_propina)
-    print ("El precio final es: ",precio_final)
+    print(monto_impuesto)
+    print(monto_subtotal)
+    print(monto_propina)
+    print (precio_final)

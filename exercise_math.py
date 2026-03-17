@@ -17,9 +17,9 @@ def math():
     diferencia = a - b
     producto = a * b
     promedio = suma / 2
-    cociente = a / b
+    cociente = a // b
     resto_division_entera = a % b
-    valor_real_division = a // b
+    valor_real_division = a / b
 
     print("La suma es: ", suma)
     print("La diferencia es: ", diferencia)

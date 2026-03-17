@@ -16,7 +16,7 @@ def grades():
     nota_min = min(nota1, nota2, nota3)
     puntos_faltan = 10 - promedio
 
-    print("El promedio de las tres notas: ", promedio)
-    print("La nota máxima es: ", nota_max)
-    print("La nota mínima es = ", nota_min)
-    print("Los puntos faltantes del promedio a 10 son: ", puntos_faltan)
+    print(promedio)
+    print(nota_max)
+    print(nota_min)
+    print(puntos_faltan)

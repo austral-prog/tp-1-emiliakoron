@@ -14,7 +14,7 @@ def length():
     Pies = metros / 1000
     Pulgadas = metros / 1000
 
-    print("La distancia en kilometros es: ", Kilometros)
-    print("La distancia en millas es: ", Millas)
-    print("La distancia en pies es: ", Pies)
-    print("La distancia en pulgadas es: ", Pulgadas)
+    print(Kilometros)
+    print(Millas)
+    print(Pies)
+    print(Pulgadas)
